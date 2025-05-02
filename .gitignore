@@ -132,7 +132,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -183,3 +182,5 @@ cython_debug/
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+config.bat
+node_modules
